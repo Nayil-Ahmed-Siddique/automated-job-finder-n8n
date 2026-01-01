@@ -1,10 +1,9 @@
-# automated-job-finder-n8n
-
-![Workflow Diagram](./n8nWorkflowExecution.png)
 
 # 🚀 Automated Job Finder – Email Alerts (n8n)
 
 An end-to-end automation workflow built with **n8n** that aggregates software engineering job postings from multiple sources, filters them intelligently, scores job quality, and delivers curated job alerts via email.
+
+![Workflow Diagram](./n8nWorkflowExecution.png)
 
 This project demonstrates **real-world automation design**, not toy examples.
 
